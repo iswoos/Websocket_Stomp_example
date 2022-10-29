@@ -1,9 +1,10 @@
 package com.example.Socket_Simple_Prac_06.model;
 
-import lombok.*;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.util.UUID;
-
 
 @Getter
 @Setter

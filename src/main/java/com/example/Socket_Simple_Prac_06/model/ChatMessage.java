@@ -5,8 +5,8 @@ import lombok.*;
 
 @Getter
 @Setter
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 public class ChatMessage {
     public enum MessageType {
         ENTER, TALK
